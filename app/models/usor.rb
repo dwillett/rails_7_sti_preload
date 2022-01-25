@@ -1,0 +1,2 @@
+class Usor < User
+end
